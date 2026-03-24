@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
- Hi, I'm **Muhammad Farhan Shakeel**<br>   I'm an Electrical Engineering student at the *.<br>
+ Hi, I'm **Muhammad Farhan Shakeel**<br>   I'm an Electrical & Electronics Engineering student
 
 - 🎓 **Education:** B.Sc. Electrical Engineering @ **University of Engineering and Technology (UET), Lahore** (2024–2028)
 - 🔬 **PCB Designing:**   Altium, KiCad
@@ -59,18 +59,6 @@
 <!-- To customize which repositories appear here, pin them on your GitHub profile -->
 <!-- Visit: https://github.com/farhan-shakeel-ee?tab=repositories -->
 
-<div align="center">
-  
-| Repository | Description | Tech Stack |
-|------------|-------------|------------|
-| 🔗 [**Smart-Home-System**](https://github.com/farhan-shakeel-ee/smart-home-system) | IoT-based home automation with ESP32 and MQTT | `ESP32` `MQTT` `Python` |
-| 🔗 [**PCB-Design-Portfolio**](https://github.com/farhan-shakeel-ee/pcb-design-portfolio) | Professional PCB designs including multi-layer boards | `Altium` `KiCad` |
-| 🔗 [**STM32-Projects**](https://github.com/farhan-shakeel-ee/stm32-projects) | Embedded firmware for STM32 microcontrollers | `C` `STM32` `ARM` |
-| 🔗 [**Arduino-Libraries**](https://github.com/farhan-shakeel-ee/arduino-libraries) | Custom Arduino libraries for various sensors | `C++` `Arduino` |
-| 🔗 [**Python-For-Engineers**](https://github.com/farhan-shakeel-ee/python-for-engineers) | Python scripts for engineering calculations | `Python` `NumPy` `Matplotlib` |
-| 🔗 [**ESP32-WiFi-Utils**](https://github.com/farhan-shakeel-ee/esp32-wifi-utils) | WiFi utilities and IoT frameworks for ESP32 | `C++` `ESP32` `IoT` |
-
-</div>
 
 > 💡 *Want to see more? Check out all my repositories [here](https://github.com/farhan-shakeel-ee?tab=repositories)*
 
