@@ -27,6 +27,7 @@
 ## 🛠️ Technical Toolkit
 
 ### Hardware Design
+
 <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />&nbsp;&nbsp;
