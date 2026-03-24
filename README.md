@@ -1,7 +1,7 @@
 <div align="center">
   
 # ⚡ Muhammad Farhan Shakeel
-### *Electrical Engineering Student | Embedded Systems Enthusiast | PCB Designer*
+### *Electrical & Electronics Engineering Student *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanshakee-ee)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farhanshakee_ee)
@@ -14,19 +14,20 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Electrical Engineering student** at the **University of Engineering and Technology (UET), Lahore**, passionate about bridging hardware and software to create innovative embedded solutions. I thrive on turning complex problems into elegant, functional designs.
+ Hi, I'm **Muhammad Farhan Shakeel**<br>   I'm an Electrical Engineering student at the *.<br>
 
-- 🎓 **Education:** B.Sc. Electrical Engineering @ UET Lahore (2024–2028)
-- 🔬 **Research Interests:** Embedded Systems, IoT, PCB Design, Control Systems
-- 🌱 **Currently Learning:** Advanced STM32 programming, RTOS, and RF circuit design
-- 🎯 **2025 Goals:** Contribute to open-source hardware projects and publish technical articles
-
+- 🎓 **Education:** B.Sc. Electrical Engineering @ **University of Engineering and Technology (UET), Lahore** (2024–2028)
+- 🔬 **PCB Designing:**   Altium, KiCad
+- 🤖 **Programming:**    Python, C
+- 😉 **Embedded Systems:**   Arduino, ESP32 and STM32
+- 🌱 **Creating and Designing:** Canva, Capcut
+- 🚀 I'm always eager to learn and create
 ---
 
 ## 🛠️ Technical Toolkit
 
 ### Hardware Design
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Altium Designer](style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
